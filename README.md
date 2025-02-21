@@ -4,7 +4,7 @@
 
 
 Here comes The Buoy!
-Replaces your default bobbler.
+Replaces your default bobbler with a bobbler based on The Lost Buoy.
 
 ### Configuration
 Config setting options:
